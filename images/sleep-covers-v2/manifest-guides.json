@@ -1,0 +1,23 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "assets": [
+    {
+      "file": "guide-release.png",
+      "source": "C:\\Users\\11652\\.codex\\generated_images\\01a18208-7dd1-7ed0-ad55-5e3bcc77cfab\\exec-5975a267-858f-42ad-9bad-a7d29d1da6b2.png",
+      "subject": "guide-release",
+      "prompt": "Use case: photorealistic-natural. Asset type: quiet cinematic sleep meditation audio cover, landscape 3:2 composition, high-resolution. A serene landscape of many layered mist-blue mountain ridges receding into fine valley fog at the edge of evening. Far horizon has a very pale soft golden-peach glow, cool subdued blue foreground, almost still atmosphere, minimal visual detail, calm and mature editorial photography. Natural realistic light, delicate tonal transitions. Mountains remain recognizable in a center square crop. For the audio called 'Let today gently go', but DO NOT write any words. No moon, no lake, no water, no people, no buildings, no icons, no typography, no frame, no collage, no interface. Entire image is one uninterrupted photographic landscape."
+    },
+    {
+      "file": "guide-breath.png",
+      "source": "C:\\Users\\11652\\.codex\\generated_images\\01a18208-7dd1-7ed0-ad55-5e3bcc77cfab\\exec-929fa028-b494-4863-a8d5-3b434be8382b.png",
+      "subject": "guide-breath",
+      "prompt": "Use case: photorealistic-natural. Asset type: subtle cinematic sleep meditation cover, landscape 3:2, high resolution. One extremely calm deep-blue open sea at twilight. A small delicate waxing crescent moon is low in a softly graduated navy-blue sky, distant, understated, not huge. The sea surface has a few tiny gentle concentric ripples in the lower-center foreground, barely disturbing the smooth water, faint muted moonlight. No mountain, no tree, no shore, no building, no boat. Restrained dark navy and muted silver-blue tones, quietly luminous, realistic long-exposure photography, uncluttered negative space, low contrast and restful atmosphere. Moon and ripples must both remain visible in a centered square crop. No text, no glyphs, no icons, no border, no collage, no UI, no giant celestial object. This is the cover for a natural-breathing audio, not fantasy art."
+    },
+    {
+      "file": "category-nature.png",
+      "source": "C:\\Users\\11652\\.codex\\generated_images\\01a18208-7dd1-7ed0-ad55-5e3bcc77cfab\\exec-bae2d00d-f565-4d87-a004-79751a0d97d9.png",
+      "subject": "category-nature",
+      "prompt": "Use case: photorealistic-natural. Asset type: nature soundscape category card for a calm sleep app, landscape 3:2 high-resolution photographic image. A close-up of one elegant small branch of fresh deep-green broad leaves covered with crystal-clear rain droplets, a few raindrops hanging from leaf tips. Wet translucent leaves in soft filtered forest light, richly natural but restrained tones, background of out-of-focus cool forest foliage and soft rain bokeh, shallow depth of field, premium macro editorial photography. Branch and several wet leaves are large and immediately recognizable in a centered square crop. Green leaves, droplets and bokeh only, no stream, no waterfall, no wide forest trail, no giant sun beam, no animals, no people. Quiet, gentle, mature composition, avoid clutter and oversaturation. No text, no symbols, no border, no UI, no collage."
+    }
+  ]
+}

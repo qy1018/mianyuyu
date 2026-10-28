@@ -1,0 +1,111 @@
+{
+  "version": 2,
+  "categories": [
+    "助眠冥想",
+    "放松音乐",
+    "白噪音",
+    "自然声景",
+    "身体放松"
+  ],
+  "newContentCovers": 7,
+  "reusedContentCovers": 9,
+  "newCategoryCovers": 1,
+  "content": [
+    {
+      "name": "把今天轻轻放下",
+      "category": "助眠冥想",
+      "image": "/images/sleep-covers-v2/guide-release.png",
+      "source": "new built-in image_gen by subagents"
+    },
+    {
+      "name": "安静的呼吸",
+      "category": "助眠冥想",
+      "image": "/images/sleep-covers-v2/guide-breath.png",
+      "source": "new built-in image_gen by subagents"
+    },
+    {
+      "name": "身体扫描",
+      "category": "身体放松",
+      "image": "/images/restored/bedroom.png",
+      "source": "previously generated, reused"
+    },
+    {
+      "name": "渐进式肌肉放松",
+      "category": "身体放松",
+      "image": "/images/restored/plant-shadow.png",
+      "source": "previously generated, reused"
+    },
+    {
+      "name": "肩颈放松觉察",
+      "category": "身体放松",
+      "image": "/images/restored/reading-chair.png",
+      "source": "previously generated, reused"
+    },
+    {
+      "name": "白天小憩",
+      "category": "助眠冥想",
+      "image": "/images/bedroom.png",
+      "source": "previously generated, reused"
+    },
+    {
+      "name": "窗边钢琴",
+      "category": "放松音乐",
+      "image": "/images/sleep-covers-v2/music-piano.png",
+      "source": "new built-in image_gen by subagents"
+    },
+    {
+      "name": "慢慢落下的夜色",
+      "category": "放松音乐",
+      "image": "/images/restored/night-ocean.png",
+      "source": "previously generated, reused"
+    },
+    {
+      "name": "柔软的弦",
+      "category": "放松音乐",
+      "image": "/images/sleep-covers-v2/music-strings.png",
+      "source": "new built-in image_gen by subagents"
+    },
+    {
+      "name": "白噪音",
+      "category": "白噪音",
+      "image": "/images/sleep-covers-v2/noise-white.png",
+      "source": "new built-in image_gen by subagents"
+    },
+    {
+      "name": "粉红噪音",
+      "category": "白噪音",
+      "image": "/images/sleep-covers-v2/noise-pink.png",
+      "source": "new built-in image_gen by subagents"
+    },
+    {
+      "name": "棕噪音",
+      "category": "白噪音",
+      "image": "/images/sleep-covers-v2/noise-brown.png",
+      "source": "new built-in image_gen by subagents"
+    },
+    {
+      "name": "雨落林间",
+      "category": "自然声景",
+      "image": "/images/restored/forest-rain.png",
+      "source": "previously generated, reused"
+    },
+    {
+      "name": "海边微风",
+      "category": "自然声景",
+      "image": "/images/restored/ocean-sunset.png",
+      "source": "previously generated, reused"
+    },
+    {
+      "name": "溪水潺潺",
+      "category": "自然声景",
+      "image": "/images/restored/stream.png",
+      "source": "previously generated, reused"
+    },
+    {
+      "name": "安静风声",
+      "category": "自然声景",
+      "image": "/images/restored/night-wind.png",
+      "source": "previously generated, reused"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "referenceNight": "exec-41518a6b-bf56-4e5c-8596-d9ac4f807dcd.png",
+  "date": "2026-10-28",
+  "referenceDay": "exec-6a28735b-7a93-488a-897c-9f44c332af38.png",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "active": true,
+      "file": "day-hero-soft.png",
+      "slot": "日间首页顶部山湖"
+    },
+    {
+      "active": true,
+      "file": "day-sleep.png",
+      "slot": "日间昨晚睡眠卡片"
+    },
+    {
+      "active": true,
+      "file": "day-forest.png",
+      "slot": "日间助眠横幅"
+    },
+    {
+      "active": true,
+      "file": "night-hero.png",
+      "slot": "夜间首页顶部月湖"
+    },
+    {
+      "active": true,
+      "file": "night-sleep.png",
+      "slot": "夜间昨晚睡眠卡片"
+    },
+    {
+      "active": true,
+      "file": "night-rain.png",
+      "slot": "夜间助眠横幅"
+    },
+    {
+      "active": false,
+      "file": "day-hero.png",
+      "slot": "日间顶部初稿，留档"
+    }
+  ]
+}

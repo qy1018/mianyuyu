@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-28",
+  "reference": "references/sleep-a-selected.png",
+  "generator": "image_gen",
+  "files": [
+    {
+      "file": "day-header-v2.png",
+      "inUse": true,
+      "sha256": "20d973f1bbb24ebff16a094203d7c7fc193614be4b8c7c2234390b66d5ed8189"
+    },
+    {
+      "file": "day-header.png",
+      "inUse": false,
+      "sha256": "df9ce50e6d0841beed9050eb8a72e6875864c9c85e43eb26d9c28cc6674337f2"
+    },
+    {
+      "file": "day-noise.png",
+      "inUse": true,
+      "sha256": "951013cd45748922b7f85f7ba7d80e911961faec6e225d45b753040059676343"
+    },
+    {
+      "file": "day-piano.png",
+      "inUse": true,
+      "sha256": "c7239c15da99375d2c6f863de4e29555a4510b7e0f78b24af221f04e48d7725a"
+    },
+    {
+      "file": "night-header-v2.png",
+      "inUse": true,
+      "sha256": "12ec0cdec56a40997d9a662793f13cbf7a7a08a73ea3d70041e41a94b40cafd8"
+    },
+    {
+      "file": "night-header.png",
+      "inUse": false,
+      "sha256": "ccfb3f9e485fddab5c90df6d8b69b0037088b8555b0ce2823c792aa251dcde7c"
+    },
+    {
+      "file": "night-noise.png",
+      "inUse": true,
+      "sha256": "27057df76de859d10aba8518dd9ea67358a98fbfc6a54e3f8e9581109ae86523"
+    },
+    {
+      "file": "night-piano.png",
+      "inUse": true,
+      "sha256": "c55852f0a7a5ca756a6065e3ef050d091458858c80c82fe0e69b8b29a9c8df9f"
+    }
+  ]
+}

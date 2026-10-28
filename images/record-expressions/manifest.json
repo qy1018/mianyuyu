@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-28",
+  "reference": "references/record-expressions-selected.png",
+  "generator": "image_gen",
+  "file": "moonlight-gummy.png",
+  "width": 2172,
+  "height": 724,
+  "columns": 6,
+  "rows": 2,
+  "slotOrder": [
+    "开心",
+    "平静",
+    "低落",
+    "烦躁",
+    "焦虑",
+    "还不错",
+    "一般",
+    "不太好",
+    "有精神",
+    "还可以",
+    "有些疲惫",
+    null
+  ],
+  "sha256": "e9e5c3ad70a3fba59875acdddf00f754ad2f2c41733339cad2d1a01e52d03d16"
+}

@@ -1,0 +1,228 @@
+{
+  "created": "2026-10-27",
+  "generator": "Built-in image_gen via three subagents",
+  "asset_count": 20,
+  "scope": "Unique scene artwork from all A-J reference boards. Existing confirmed mascot, vector UI icons, data charts and device chrome preserved.",
+  "assets": [
+    {
+      "file": "forest-rain.png",
+      "group": "nature",
+      "title": "林间雨声",
+      "pages": "E01、E02、E06、I03",
+      "width": 1122,
+      "height": 1402,
+      "path": "nature/forest-rain.png",
+      "sha256": "3b14d7b153d3bbca380da7a2cdd1000aef45f4ff0b646ef32dee6481eda56402",
+      "app_path": "/images/restored/forest-rain.png"
+    },
+    {
+      "file": "stream.png",
+      "group": "nature",
+      "title": "溪水潺潺",
+      "pages": "E01、E02、E06",
+      "width": 1254,
+      "height": 1254,
+      "path": "nature/stream.png",
+      "sha256": "4c84d45bc347712096f39d3f4de77dd58818d10c6eadb3ae9e67a05c1ea2f10a",
+      "app_path": "/images/restored/stream.png"
+    },
+    {
+      "file": "ocean-sunset.png",
+      "group": "nature",
+      "title": "海边微风 · 日落",
+      "pages": "E01、E02、E06",
+      "width": 1536,
+      "height": 1024,
+      "path": "nature/ocean-sunset.png",
+      "sha256": "dea0f71436fe706f7558fa259e76e27cd1301d4a728b9f6062395ea4e9d7a04d",
+      "app_path": "/images/restored/ocean-sunset.png"
+    },
+    {
+      "file": "sunrise-lake.png",
+      "group": "nature",
+      "title": "奶油金色日出湖景",
+      "pages": "A01、A06、H01、K01",
+      "width": 1536,
+      "height": 1024,
+      "path": "nature/sunrise-lake.png",
+      "sha256": "02cfaa012a530264b33b9f2fe2a0e468dae61aacf5650252a4fb6869dd524baa",
+      "app_path": "/images/restored/sunrise-lake.png"
+    },
+    {
+      "file": "sunrise-header.png",
+      "group": "nature",
+      "title": "右侧太阳 · 留白页头",
+      "pages": "A04、B01、D05",
+      "width": 2172,
+      "height": 724,
+      "path": "nature/sunrise-header.png",
+      "sha256": "ce9732dc8699edd5b019153487b4a2de325ae5af0559bbe593eee2aa2f629beb",
+      "app_path": "/images/restored/sunrise-header.png"
+    },
+    {
+      "file": "bedroom.png",
+      "group": "interiors",
+      "title": "暖光床铺",
+      "pages": "E01、E03、I03",
+      "width": 1536,
+      "height": 1024,
+      "path": "interiors/bedroom.png",
+      "sha256": "0b9a69c77f3c68660466de152fffb8b9cdedc663903a1625a85c21a09e935732",
+      "app_path": "/images/restored/bedroom.png"
+    },
+    {
+      "file": "plant-shadow.png",
+      "group": "interiors",
+      "title": "植物与窗影",
+      "pages": "E03",
+      "width": 1086,
+      "height": 1448,
+      "path": "interiors/plant-shadow.png",
+      "sha256": "03019f3a84470e394acf76e0736f5c5119f8f249913e4670c681920c0c08b0ae",
+      "app_path": "/images/restored/plant-shadow.png"
+    },
+    {
+      "file": "reading-chair.png",
+      "group": "interiors",
+      "title": "阅读椅与毛毯",
+      "pages": "E03",
+      "width": 1086,
+      "height": 1448,
+      "path": "interiors/reading-chair.png",
+      "sha256": "ded54f636a4825cccf526c0c7a60c61cbc11b0e4061c09cdf007b31c03fd65e9",
+      "app_path": "/images/restored/reading-chair.png"
+    },
+    {
+      "file": "rain-window.png",
+      "group": "interiors",
+      "title": "雨窗 · 灯笼与咖啡杯",
+      "pages": "E06",
+      "width": 1122,
+      "height": 1402,
+      "path": "interiors/rain-window.png",
+      "sha256": "a448c08c40843afc8958e0b9cc42fb8dc6b13b4dc3cd21e9eb36c85ec7bbc329",
+      "app_path": "/images/restored/rain-window.png"
+    },
+    {
+      "file": "rain-desk.png",
+      "group": "interiors",
+      "title": "雨夜书桌 · 台灯与笔记本",
+      "pages": "D02",
+      "width": 1536,
+      "height": 1024,
+      "path": "interiors/rain-desk.png",
+      "sha256": "3f712d9b5c54f53193e75d63dc3542fa6722c6d8d090ce4e8a9c2a66ea331867",
+      "app_path": "/images/restored/rain-desk.png"
+    },
+    {
+      "file": "night-bedroom.png",
+      "group": "interiors",
+      "title": "夜雨卧室 · 球灯与绿植",
+      "pages": "J06",
+      "width": 941,
+      "height": 1672,
+      "path": "interiors/night-bedroom.png",
+      "sha256": "71507933142815ad0a96604e3cd7da97337565e75e191c8aef1546ec9075ff53",
+      "app_path": "/images/restored/night-bedroom.png"
+    },
+    {
+      "file": "moon-lake.png",
+      "group": "nights",
+      "title": "满月 · 山峦与湖面",
+      "pages": "A05、A06、F01、F02、F05",
+      "width": 1086,
+      "height": 1448,
+      "path": "nights/moon-lake.png",
+      "sha256": "66106d071e8e30bd0897092542a5efba64731d38874dcf297caecbab12f183b5",
+      "app_path": "/images/restored/moon-lake.png"
+    },
+    {
+      "file": "crescent-lake.png",
+      "group": "nights",
+      "title": "月牙湖 · 思绪寄存",
+      "pages": "D06、F06",
+      "width": 941,
+      "height": 1672,
+      "path": "nights/crescent-lake.png",
+      "sha256": "a94dcdf0ad474d625a85d4ad164a5794bcdcdb8a849c1d255ed46084584f56d3",
+      "app_path": "/images/restored/crescent-lake.png"
+    },
+    {
+      "file": "crescent-breath.png",
+      "group": "nights",
+      "title": "大月牙 · 呼吸与正念",
+      "pages": "E04",
+      "width": 1086,
+      "height": 1448,
+      "path": "nights/crescent-breath.png",
+      "sha256": "bb1e498d315fd74db64a157563ddb353d48af1420db645788416c8b0b1042db5",
+      "app_path": "/images/restored/crescent-breath.png"
+    },
+    {
+      "file": "rain-cabin.png",
+      "group": "nights",
+      "title": "雨林木屋 · 夜间陪伴",
+      "pages": "C06、F03、F05",
+      "width": 941,
+      "height": 1672,
+      "path": "nights/rain-cabin.png",
+      "sha256": "459803d25ee428e3d503aeb65303eee33bc6172aac1ce0f4518705ca4299a6a2",
+      "app_path": "/images/restored/rain-cabin.png"
+    },
+    {
+      "file": "night-ocean.png",
+      "group": "nights",
+      "title": "海边微风 · 月夜",
+      "pages": "F03、F05",
+      "width": 1254,
+      "height": 1254,
+      "path": "nights/night-ocean.png",
+      "sha256": "37be0854b242f20f2f8a89b06945a03a74bf3860ec4baf15e2524fe12685e88d",
+      "app_path": "/images/restored/night-ocean.png"
+    },
+    {
+      "file": "night-wind.png",
+      "group": "nights",
+      "title": "安静风声 · 山谷松影",
+      "pages": "F03、F05",
+      "width": 1254,
+      "height": 1254,
+      "path": "nights/night-wind.png",
+      "sha256": "356c13b49f0236e2841debd0b32dbe846514ba6ebf8e954ad23aabfb595be1a7",
+      "app_path": "/images/restored/night-wind.png"
+    },
+    {
+      "file": "plan-drawer.png",
+      "group": "nature",
+      "title": "明日抽屉 · 暖光木柜",
+      "pages": "H03",
+      "width": 1536,
+      "height": 1024,
+      "path": "nature/plan-drawer.png",
+      "sha256": "6eb02ed15607f91d5fb0c8e2411d02f2f1e0a284ddd5d5d415eb0fce1dd8975b",
+      "app_path": "/images/restored/plan-drawer.png"
+    },
+    {
+      "file": "plan-notebook.png",
+      "group": "nature",
+      "title": "待办笔记本与铅笔",
+      "pages": "H06",
+      "width": 1086,
+      "height": 1448,
+      "path": "nature/plan-notebook.png",
+      "sha256": "97934dbc0985b4182fdc42bc010618aaa2ffde79ecdeca0ac6d0d264bd2804f0",
+      "app_path": "/images/restored/plan-notebook.png"
+    },
+    {
+      "file": "morning-cup.png",
+      "group": "nature",
+      "title": "晨光杯子与黄色小花",
+      "pages": "H06",
+      "width": 1086,
+      "height": 1448,
+      "path": "nature/morning-cup.png",
+      "sha256": "1704aa7903bf9f56e4d1b9a4a9c172b5a2ae7a7aa4d810e2fb6e9e19fd2a1289",
+      "app_path": "/images/restored/morning-cup.png"
+    }
+  ]
+}
